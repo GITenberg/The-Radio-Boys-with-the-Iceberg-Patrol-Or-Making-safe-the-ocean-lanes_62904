@@ -1,0 +1,31 @@
+_repo: The-Radio-Boys-with-the-Iceberg-Patrol-Or-Making-safe-the-ocean-lanes_62904
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Binns, Jack
+    alias: Binns, John Robinson
+    birthdate: 1884
+    deathdate: 1959
+    gutenberg_agent_id: '37336'
+    url: http://www.gutenberg.org/2009/agents/37336
+creator:
+  author:
+    agent_name: Chapman, Allen
+    gutenberg_agent_id: '2575'
+    url: http://www.gutenberg.org/2009/agents/2575
+description: ''
+gutenberg_issued: '2020-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radio -- Juvenile fiction'
+- !lcsh 'International Ice Patrol -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Radio Boys with the Iceberg Patrol; Or, Making safe the ocean lanes
+url: http://www.gutenberg.org/ebooks/62904

@@ -1,5 +1,5 @@
 _repo: The-Radio-Boys-with-the-Iceberg-Patrol-Or-Making-safe-the-ocean-lanes_62904
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Binns, Jack
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1959
     gutenberg_agent_id: '37336'
     url: http://www.gutenberg.org/2009/agents/37336
+covers:
+- cover_type: archival
+  image_path: 62904-h/images/cover.jpg
 creator:
   author:
     agent_name: Chapman, Allen
     gutenberg_agent_id: '2575'
     url: http://www.gutenberg.org/2009/agents/2575
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62904#The-Radio-Boys-with-the-Iceberg-Patrol-Or-Making-safe-the-ocean-lanes
 gutenberg_issued: '2020-08-11'
 gutenberg_type: Text
 identifiers:
